@@ -37,6 +37,8 @@ Use a custom hosts file for testing:
 bhrouter --hosts /tmp/hosts.test set example.com 127.0.0.1
 ```
 
+[!Image of BH Router web UI](web-ui.png)
+
 ## UI usage
 
 ```bash
